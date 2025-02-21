@@ -1,5 +1,5 @@
 # dynamic-synaxarion
-Eastern Orthodox Synaxarion in graph form showing relationships between entities
+Eastern Orthodox Synaxarion in graph form showing relationships between persons
 
 ## How to Start the App
 
